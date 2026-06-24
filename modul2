@@ -1,0 +1,214 @@
+# MODUL 2: ADVANCED PROMPTING FOR PRESENTATION DESIGN
+
+## Tajuk Contoh Bengkel
+
+### Artificial Intelligence in Education: Opportunities, Challenges and Future Directions
+
+
+
+# Pengenalan
+
+Selepas peserta membina strategi pembentangan dalam Modul 1, langkah seterusnya adalah menggunakan AI untuk menjana kandungan pembentangan yang berkualiti, tersusun dan sesuai dengan audiens sasaran.
+
+Modul ini memberi fokus kepada teknik Prompt Engineering yang membolehkan peserta mengawal output AI dari peringkat idea sehingga menghasilkan kandungan slaid yang profesional.
+
+---
+
+# Hasil Pembelajaran Modul
+
+Pada akhir modul ini peserta dapat:
+
+1. Membina prompt yang berkesan untuk menghasilkan kandungan pembentangan.
+2. Menggunakan AI untuk menjana struktur pembentangan yang tersusun.
+3. Mengawal tahap kedalaman dan gaya penyampaian kandungan.
+4. Menggunakan teknik multi-prompt workflow.
+5. Menghasilkan kandungan pembentangan yang sesuai dengan audiens sasaran.
+
+---
+
+# AKTIVITI 1
+
+## Memahami Formula Prompt Berkesan
+### Formula
+**ROLE + TASK + CONTEXT + OUTPUT**
+
+### Contoh Prompt Biasa
+
+> Create a presentation about AI in Education.
+
+
+### Contoh Prompt Profesional
+
+> Act as an educational technology expert. Create a presentation titled "Artificial Intelligence in Education: Opportunities, Challenges and Future Directions" for lecturers. Include current trends, opportunities, challenges, ethical considerations and future directions. Generate a 10-slide structure with speaker notes.
+
+
+
+# AKTIVITI 2
+
+## Menjana Struktur Pembentangan
+
+### Prompt
+
+> Act as a professional presentation consultant. Create a detailed 10-slide presentation structure for the topic "Artificial Intelligence in Education: Opportunities, Challenges and Future Directions". The audience consists of lecturers and academic leaders.
+
+
+
+# AKTIVITI 3
+
+## Menjana Kandungan Setiap Slaid
+
+### Prompt
+
+> Generate detailed content for Slide 4: Opportunities of Artificial Intelligence in Education. Include key points, examples and presenter notes.
+
+
+
+# AKTIVITI 4
+
+## Mengawal Tahap Kedalaman Kandungan
+
+### Versi 1
+
+Prompt:
+
+> Explain AI in Education for secondary school students.
+
+
+
+### Versi 2
+
+Prompt:
+
+> Explain AI in Education for lecturers.
+
+
+
+### Versi 3
+
+Prompt:
+
+> Explain AI in Education for institutional leaders.
+
+
+
+# AKTIVITI 5
+
+## Mengawal Tone dan Gaya Penyampaian
+
+### Prompt Akademik
+
+> Rewrite the content using an academic presentation style.
+
+---
+
+### Prompt Profesional
+
+> Rewrite the content using an executive briefing style.
+
+---
+
+### Prompt Motivasi
+
+> Rewrite the content using an inspirational keynote presentation style.
+
+---
+
+### Aktiviti
+
+Bandingkan perbezaan gaya penyampaian.
+
+---
+
+# AKTIVITI 6
+
+## Multi-Prompt Workflow
+
+## Prompt 1: Content Generator
+
+> Act as an educational AI expert. Generate presentation content for the topic.
+
+---
+
+## Prompt 2: Design Reviewer
+
+> Review the content and suggest improvements for visual presentation.
+
+---
+
+## Prompt 3: Audience Simulator
+
+> Act as a lecturer attending this presentation. What questions would you ask?
+
+---
+
+### Output
+
+ bagaimana AI boleh berfungsi sebagai:
+
+* Content Creator
+* Design Reviewer
+* Audience Reviewer
+
+---
+
+# AKTIVITI 7
+
+## Menjana Storytelling Framework
+
+### Prompt
+
+> Convert this presentation into a storytelling format using Problem → Challenge → Opportunity → Solution → Future Impact.
+
+
+
+# aktiviti 8
+
+## Menjana Visual Suggestions
+
+### Prompt
+
+> Suggest suitable visuals, icons, diagrams, charts and infographics for each slide.
+
+---
+
+### Contoh Output
+
+Slide 2
+Timeline infographic
+
+Slide 4
+Opportunity matrix
+
+Slide 5
+Risk-impact chart
+
+Slide 8
+Future roadmap
+
+---
+
+
+
+
+
+# LANGKAH 10
+
+## Menjana Prompt Lengkap untuk AI Presentation Tools
+
+### Prompt
+
+> Create a complete prompt for Gamma AI to generate a professional presentation titled "Artificial Intelligence in Education: Opportunities, Challenges and Future Directions". Include slide structure, visual recommendations and speaker notes.
+
+---
+
+### Aktiviti
+
+Gunakan prompt tersebut dalam:
+
+* Gamma AI
+* Canva AI
+* PowerPoint Copilot
+
+---
+
+
