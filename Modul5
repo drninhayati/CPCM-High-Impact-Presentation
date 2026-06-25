@@ -24,3 +24,23 @@ Paparkan:
 
 
 Bina dalam Canvas supaya saya boleh melihat preview dashboard secara terus.
+
+
+***********************************************
+Generate a SINGLE standalone HTML file.
+
+Do NOT use React.
+Do NOT use TypeScript.
+Do NOT use TSX.
+Do NOT use Next.js.
+Do NOT use Vite.
+
+Use only:
+- HTML
+- CSS
+- JavaScript
+- Apache ECharts (via CDN)
+
+Everything must be inside one HTML file.
+
+The file must be named dashboard.html and be runnable by double-clicking it in a browser.
