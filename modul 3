@@ -1,0 +1,23 @@
+Transform the uploaded teaching material into 20 modern lecture slides suitable for diploma engineering students in TVET.
+Content requirements:
+• Use clear and concise slide titles
+• Use bullet points instead of long paragraphs
+• Highlight key concepts and important keywords
+• Keep explanations simple and easy to understand
+• Include practical or real-world examples related to engineering or IoT applications
+• Ensure logical flow from introduction to summary
+Design requirements:
+• Use a clean and modern slide layout
+• Suggested color theme: dark blue, grey, and white for a professional academic look
+• Use sans-serif fonts such as Montserrat, Poppins, or Open Sans
+• Use large readable font sizes (Title: 36–44 pt, Content: 24–28 pt)
+• Maintain consistent spacing and alignment
+• Avoid overcrowding slides
+Visual elements:
+• Suggest diagrams or visuals where appropriate
+• Include architecture diagrams for system explanations
+• Include process flow diagrams for workflows
+• Use icons to represent concepts (network, sensor, cloud, data)
+• Highlight key points using visual callouts
+
+Ensure the slides are visually clear, engaging, and suitable for classroom teaching.
